@@ -1,5 +1,5 @@
 # CyberChase
-## Welcome to CyberChase an alternative file decoder
+## Welcome to CyberChase an alternative file decoder and encoder
 
 > CyberChase is a file encoder and decoder for "PRIVACY NEEDS" you know what I mean
 ### CyberChase can help with:
